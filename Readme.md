@@ -8,6 +8,10 @@ Ce plugin permet de recuperer les informations d'un MPPT Victron.
 
 # Changelog
 
+27/09/2021: 
+- Version initiale soumise au market Jeedom.
+- Testée avec un Victron MPPT 75 10
+
 # Support
 
 Ouvrez des issues dans https://github.com/KiwiHC16/victron_mppt_75_10_Support/issues si vous souhaitez du support.
