@@ -10,9 +10,22 @@ Les MPPT Victron possède un port applelé VE.Direct sur lequel on peut connecte
 
 ![iu](https://user-images.githubusercontent.com/8549674/136688462-14dac985-45f7-4b51-94a3-1fc031d51e7b.jpeg)
 
+Ce plugin permet de lire en permanence les informations depuis le port USB:
 
+![Capture d’écran 2021-10-10 à 10 29 56](https://user-images.githubusercontent.com/8549674/136688499-b78631fc-8247-40de-846f-2457bf440ddd.png)
+
+Il est necessaire de créer un equipement par MPPT.
+
+Ensuite il est important de définir les informations relative à la batterie:
+
+![Capture d’écran 2021-10-10 à 10 32 01](https://user-images.githubusercontent.com/8549674/136688548-dcdff6ea-6336-4b9b-bc1f-21a8dcae07e6.png)
+
+Suite à la creation d'un equipement MPPT, il faut relance le daemon du plugin.
 
 # Changelog
+
+10/10/2021:
+- Ajout des caracteristique de la batterie
 
 27/09/2021: 
 - Version initiale soumise au market Jeedom.
