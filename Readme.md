@@ -37,10 +37,10 @@ N'hésitez pas à lire: Wikipedia (https://fr.wikipedia.org/wiki/Batterie_au_plo
 
 La configuration faite dans le MPPT:
 ![Capture d’écran   2021-10-09 à 11 19 46](https://user-images.githubusercontent.com/8549674/136689051-5cfd121d-3fe4-4fc9-ba60-77a072d97035.jpeg)
-
+<img src="https://user-images.githubusercontent.com/8549674/136689051-5cfd121d-3fe4-4fc9-ba60-77a072d97035.jpeg" width="200">
 
 ![Capture d’écran   2021-10-09 à 11 20 27](https://user-images.githubusercontent.com/8549674/136689053-2e9c1e6c-e8f2-47de-87ee-76bb162bcbe6.jpeg)
-
+<img src="https://user-images.githubusercontent.com/8549674/136689053-2e9c1e6c-e8f2-47de-87ee-76bb162bcbe6.jpeg" width="200">
 
 Suite à la creation d'un equipement MPPT, il faut relance le daemon du plugin.
 
