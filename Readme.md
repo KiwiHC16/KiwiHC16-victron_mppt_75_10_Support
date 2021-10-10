@@ -31,7 +31,7 @@ Ensuite il est important de définir les informations relative à la batterie:
 
 Exemple d'utilisation:
 
-Batterie de moto de 12V à 14Ah, soit 168Wh. Max 4.2A de charge CC (Courant Constant), 13.6V en Float et 14.6V Max en charge.
+Batterie de moto de 12V à 14Ah, soit 168Wh. Max 4.2A de charge CC (Courant Constant), 13.6V-13.8V en Float et 14.6V Max en charge.
 
 N'hésitez pas à lire: Wikipedia (https://fr.wikipedia.org/wiki/Batterie_au_plomb).
 
