@@ -8,7 +8,7 @@ Ce plugin permet de recuperer les informations d'un MPPT Victron.
 
 Les MPPT Victron possède un port applelé VE.Direct sur lequel on peut connecter un cable USB:
 
-![iu](https://user-images.githubusercontent.com/8549674/136688462-14dac985-45f7-4b51-94a3-1fc031d51e7b.jpeg)
+![iu](https://user-images.githubusercontent.com/8549674/136688462-14dac985-45f7-4b51-94a3-1fc031d51e7b.jpeg){:height="700px" width="400px"}
 
 Ce plugin permet de lire en permanence les informations depuis le port USB:
 
